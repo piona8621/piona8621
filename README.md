@@ -18,15 +18,25 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there I am Effat Ara</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me
+  Welcome to my profile!
+I'm a Frontend Developer, passionate about building seamless user experiences and creating engaging websites. Currently, I'm a student and a part-time coder, constantly learning and growing in the field of web development. Thanks for visiting my profile, and I’d love to connect!
+
+
+</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Effat  from  Bangladesh <br><br>- 
+  🔭 I’m working as a Frontend Developer.
+📚 I'm currently learning [Technology or Skill you're focusing on].
+⚡ In my free time, I [Hobby or Activity you enjoy].
+
+</p>
 
 ###
 
