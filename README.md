@@ -13,7 +13,9 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://www.facebook.com/share/1B3eDwRSJb/?mibextid=wwXIfr" height="25" alt="facebook logo"  />
+<!--   <img src="https://www.facebook.com/share/1B3eDwRSJb/?mibextid=wwXIfr" height="25" alt="facebook logo"  /> -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo" height="25">
+
 </div>
 
 ###
