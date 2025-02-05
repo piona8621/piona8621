@@ -1,5 +1,8 @@
 <div align="center">
-  <img height="300" src="https://github.com/user-attachments/assets/6684bc55-d574-446c-aae5-808ef5d633c1"  />
+<!--   <img height="300" src="https://github.com/user-attachments/assets/6684bc55-d574-446c-aae5-808ef5d633c1"  /> -->
+![Blue Minimalist Personal Branding Youtube Banner (4)](https://github.com/user-attachments/assets/24b3e011-9920-4f0e-902a-adffc3059a89)
+
+  
 </div>
 
 ###
