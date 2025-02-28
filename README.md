@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="500" src="![Blue Gaming Facebook Cover - Copy](https://github.com/user-attachments/assets/9d13da8c-ea0d-4d38-960f-4479c071dbd2)"  />
+  <img height="500" src="![Blue Gaming Facebook Cover (4)](https://github.com/user-attachments/assets/1c9fae2e-61a5-4fef-ba67-1557d3c0994c)
+"  />
 
 </div>
 
