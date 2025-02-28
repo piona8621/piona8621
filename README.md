@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="500" src="![Blue Gaming Facebook Cover (4)](https://github.com/user-attachments/assets/1c9fae2e-61a5-4fef-ba67-1557d3c0994c)
+  <img height="500" src=" ![Profile Banner](https://your-public-repo-url.com/images/banner.png)
+
 "  />
 
 </div>
