@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="500" src=" ![Blue Gaming Facebook Cover (1)](https://github.com/user-attachments/assets/a5dd24fc-86b0-4108-9707-74a42a1c1676)"  />
+  <img height="500" src="![Blue Minimalist Personal Branding Youtube Banner (2)](https://github.com/user-attachments/assets/96615c63-c14b-44e2-b208-df885e40dd4d)
+"  />
 
 </div>
 
